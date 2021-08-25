@@ -1,0 +1,22 @@
+{"INSCRIPTIONS": {"Shaman":46684,"Cavalier":46685,"Rabid":46686,"Magi":46687,"Soldier":46688,"Dire":46690},
+  "INSIGNIAS": {"Shaman":46708,"Cavalier":46709,"Rabid":46710,"Magi":46711,"Soldier": 46712,"Dire":49522},
+  "STAT_SETS":{"153":"Shaman", "154":"Rabid","156":"Magi","162":"Soldier", "616":"Cavalier","754":"Dire"},
+  "RARITY_COLORS": {
+       "Basic":
+         "#000000",
+       "Fine":
+         "#62A4DA",
+       "Masterwork":
+         "#1a9306",
+       "Rare":
+         "#fcd00b",
+       "Exotic":
+         "#ffa405",
+       "Ascended":
+         "#fb3e8d",
+       "Legendary":
+         "#4C139D",
+      "Default":
+         "#000000"
+  }
+}
